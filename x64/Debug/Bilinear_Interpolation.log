@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(40,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(41,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(42,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(43,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(87,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(97,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(137,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(138,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(139,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(140,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(184,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(194,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(215,11): warning C4101: 'input': unreferenced local variable
+D:\Repo_VS\Bilinear_Interpolation\main.cpp(216,11): warning C4101: 'output': unreferenced local variable
+  Bilinear_Interpolation.vcxproj -> D:\Repo_VS\Bilinear_Interpolation\x64\Debug\Bilinear_Interpolation.exe
